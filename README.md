@@ -19,10 +19,9 @@ A modern and interactive web app that allows users to convert **text to Morse co
 ## 🖼️ Screenshots
 
 ### ▶️ Main Interface
-![Main UI](images/screenshot-main.png)
+![Main UI](ss1.png)
 
-### 🔊 Audio and Flashlight in Action
-![Flashlight](images/screenshot-flashlight.png)
+
 
 ---
 
