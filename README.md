@@ -38,5 +38,5 @@ A modern and interactive web app that allows users to convert **text to Morse co
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/shreyamp01/morsecodetranslator.git
+   git clone https://github.com/shreyamp01/MorseCodeTranslator.git
    cd morse 
